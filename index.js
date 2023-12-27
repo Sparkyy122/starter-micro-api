@@ -7,10 +7,10 @@ http.createServer(function (req, res) {
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'localhost',
-    port: '12345',
+    host: 'Iampro13412.aternos.me',
+    port: '19077',
     username: "Hello_world",
-    version: '1.8.9'
+    version: '1.20.1'
 };
 
 const initBot = () => {
